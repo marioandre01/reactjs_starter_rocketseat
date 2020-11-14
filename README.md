@@ -22,7 +22,7 @@
 
 ## 💻 Projeto
 
-Esse projeto tem como objetivo desenvolver uma aplicação frontend utilizando ReactJS para ter uma prieiro contato com essa tecnologia e entender seus conceitos e funcionamento.
+Esse projeto tem como objetivo desenvolver uma aplicação frontend utilizando ReactJS para ter uma primeiro contato com essa tecnologia e entender seus conceitos e sua estrutura de funcionamento. A aplicação consiste em fazer uma requisição a uma API externa que retorna uma lista de dados com a informações de "Nome", "Descrição" e "URL" de uma tecnologia web. Com essas informações, as mesmas são renderizadas na tela, e usando CSS seu visual fica mais agradável. As informaçõe são limitadas em 10 por página, assim havendo mais de 10, deve-se acessar o botão "Próximo" para ver as outras informações. Em cada item da tecnologia listada há um botão "Acessar" que leva para uma página de detalhes da tecnologia. Nesta página é mostrado as informações de "Nome", "Descrição" e "URL" do github dessa tecnologia. Há também um botão voltar para retornar a página inicial da aplicação.   
 
 ## 📋 Tecnologias
 
@@ -38,13 +38,14 @@ O projeto foi desenvolvido com as seguintes tecnologias:
 ## 🎨 Layout
 
 <p align="center">
-  <img alt="reactjs starter" title="reactjs starter" src="imgs/tela_inicio_page1.png" width="500px">
-  <img alt="reactjs starter" title="reactjs starter" src="imgs/tela_inicio_continuacao_page2.png" width="500px">
-  <img alt="reactjs starter" title="reactjs starter" src="imgs/tela_page2.png" width="500px">
-  <img alt="reactjs starter" title="reactjs starter" src="imgs/tela_item.png" width="500px">
+  <img alt="reactjs starter" title="reactjs starter" src="imgs/tela_inicio_page1.png" width="400px">
+  <img alt="reactjs starter" title="reactjs starter" src="imgs/tela_inicio_continuacao_page2.png" width="400px">
+  <img alt="reactjs starter" title="reactjs starter" src="imgs/tela_page2.png" width="400px">
+  <img alt="reactjs starter" title="reactjs starter" src="imgs/tela_item.png" width="400px">
 </p>
 
-## :bulb: Funcionamento da aplicação
+
+<!-- ## :bulb: Funcionamento da aplicação !-->
 
 
 ## 💻 Executando a aplicação
