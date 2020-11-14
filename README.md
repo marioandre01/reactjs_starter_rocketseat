@@ -38,8 +38,10 @@ O projeto foi desenvolvido com as seguintes tecnologias:
 ## 🎨 Layout
 
 <p align="center">
-  <img alt="reactjs starter" title="reactjs starter" src="imgs/jogo_forca_python_acertou.png" width="1000px">
-  <img alt="reactjs starter" title="reactjs starter" src="imgs/jogo_forca_python_errou.png" width="600px">
+  <img alt="reactjs starter" title="reactjs starter" src="imgs/tela_inicio_page1.png" width="500px">
+  <img alt="reactjs starter" title="reactjs starter" src="imgs/tela_inicio_continuacao_page2.png" width="500px">
+  <img alt="reactjs starter" title="reactjs starter" src="imgs/tela_page2.png" width="500px">
+  <img alt="reactjs starter" title="reactjs starter" src="imgs/tela_item.png" width="500px">
 </p>
 
 ## :bulb: Funcionamento da aplicação
