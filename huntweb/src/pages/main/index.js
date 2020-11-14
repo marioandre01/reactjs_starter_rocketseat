@@ -20,7 +20,7 @@ function Main() {
 
     async function loadProducts(page = 1) {
         const response = await api.get(`/products?page=${page}`);
-        console.log(response.data);
+        //console.log(response.data);
         const { docs, ...productInfo } = response.data;
 
         setProducts(docs);

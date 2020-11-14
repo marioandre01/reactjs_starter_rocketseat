@@ -8,14 +8,11 @@ function Product(props) {
     const [ product, setProduct ] = useState({});
 
     useEffect(async () => {
-        console.log(props.match.params);
+      
         const { id } = props.match.params
-        console.log(id);
-
+       
         const response = await api.get(`/products/${id}`);
-        console.log(response);
-
-
+        
         setProduct(response.data);
     }, []);
 
@@ -27,10 +24,11 @@ function Product(props) {
             <p>
                 URL: <a target="_blank" href={product.url}>{product.url}</a>
             </p>
-            <div className="actions">
+            <div>
                 <Link to={`/`}>Voltar</Link>
-               
             </div>
+               
+            
         </div>
     );
   }
