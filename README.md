@@ -38,10 +38,10 @@ O projeto foi desenvolvido com as seguintes tecnologias:
 ## 🎨 Layout
 
 <p align="center">
-  <img alt="reactjs starter" title="reactjs starter" src="imgs/tela_inicio_page1.png" width="400px">
-  <img alt="reactjs starter" title="reactjs starter" src="imgs/tela_inicio_continuacao_page2.png" width="400px">
-  <img alt="reactjs starter" title="reactjs starter" src="imgs/tela_page2.png" width="400px">
-  <img alt="reactjs starter" title="reactjs starter" src="imgs/tela_item.png" width="400px">
+  <img alt="reactjs starter" title="reactjs starter" src="imgs/tela_inicio_page1.png" width="800px">
+  <img alt="reactjs starter" title="reactjs starter" src="imgs/tela_inicio_continuacao_page2.png" width="800px">
+  <img alt="reactjs starter" title="reactjs starter" src="imgs/tela_page2.png" width="800px">
+  <img alt="reactjs starter" title="reactjs starter" src="imgs/tela_item.png" width="800px">
 </p>
 
 
